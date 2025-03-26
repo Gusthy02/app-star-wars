@@ -64,3 +64,5 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE par
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato através do [email](gustavothyerrisdonascimentooli@gmail.com).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-thyerris-n-oliveira-2b87a02a8/)
